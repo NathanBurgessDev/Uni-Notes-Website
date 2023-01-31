@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuni_notes_website=self.webpackChunkuni_notes_website||[]).push([[9891],{4648:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Uni-Notes-Website/blog/tags/docusaurus","allTagsPath":"/Uni-Notes-Website/blog/tags","count":4}')}}]);

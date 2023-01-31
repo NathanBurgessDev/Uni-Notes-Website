@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuni_notes_website=self.webpackChunkuni_notes_website||[]).push([[8715],{2104:e=>{e.exports=JSON.parse('{"permalink":"/Uni-Notes-Website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
